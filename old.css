@@ -1,0 +1,70 @@
+*{
+    margin:0
+    padding:0
+    box-sizing:border-box:
+}
+
+body{
+    background-color: black;
+}
+.first{
+    color: aqua;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    font-weight: 300;
+    border: solid  2px red;
+    border-radius: 10px;
+}
+
+.old{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    margin-top: 100px;
+}
+
+.box1{
+    position: relative;
+    width: 100%;
+    height: 250px;
+    border: 1px solid red;
+    border-radius: 20px;
+    display: flex;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.cards{
+    position:relative;
+    width: 20%;
+    height: 200px;
+    border: 0.5px solid whitesmoke;
+    border-radius: 1px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.img1{
+    height: 100%;
+    width: 100%;
+}
+
+.titles{
+    color: aliceblue;
+}
+
+.box2{
+    position: relative;
+    width: 100%;
+    height: 250px;
+    border: 1px solid red ;
+    margin-top: 40px;
+    border-radius: 20px;
+    display: flex;
+    color: aliceblue;
+    text-align: center;
+
+}
